@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1e3pa3d1tis__/1e3p_Ah.pdb
+     Number of residues:    99
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1e3pa3d1tis__/1tis__c.pdb
+     Number of residues:   100
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   81.82  NALI=  81  NORM=  99  RMS=   13.33  NSS=  56
+ PSI(end)=   38.38  NALI=  38  NORM=  99  RMS=    3.87  CO_p=  4.00  CO_e=  4.12
+ Sstr(LG)=  748.44  NALI=  38  NORM=  99  RMS=    3.87
+E-value=     0.55150392E-01
+
+Z-score=      2.6147140        -ln(E)=      2.8976914    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+            ********* **** *                     *           *** 
+Prediction NETHYAEAVI DNGAFGTRTI RFETGRLARQ AAGSAVAY.. ....LDDDNP
+Prediction SSSSSSSSSS S-----SSSS SSSSSS---- ---SSSSS.. ....S-----
+            ||||||||     |               || |||||||          ||||
+Experiment .SSSSSSSSS SSS--SS--- S......SSS SSSSSSSS-- --SSSSSS--
+Experiment .NDRRQIVSA WNPAELKYMA L......PPC HMFYQFNVRN GYLDLQWYQR
+            ********* **** *                     *           *** 
+  
+           **                                      **   **       
+Prediction DHLYDVVAIN AASASTQLAG LPTEEVVAAG L.....DAAK PFI.......
+Prediction --HHHHHHHH HHHHHHH--- -SS----HHH H.....HHHH HHH.......
+           |||||||||| |||         ||||||||         ||| ||        
+Experiment -SS---HHHH HHH....... .HHHHHHHHH H----SS--- HHHHHHH---
+Experiment SVDVFLGLPF NIA....... .SYATLVHIV AKMCNLLGPI YGKQWRDFGG
+           **                                      **   **       
+  
+           ********** ****  
+Prediction KVLCKAQADL AAKAAK
+Prediction HHHHHHHHHH HHHHHH
+           ||||||||         
+Experiment HHHHHHHHHH HHHH..
+Experiment VDQIIEVIDR IKKL..
+           ********** ****  
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.007 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.008 sec >
+   < Tertiary structure matching:         0.003 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

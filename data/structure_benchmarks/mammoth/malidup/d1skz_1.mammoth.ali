@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1skz_1/1skz_A1.pdb
+     Number of residues:    54
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1skz_1/1skz_A2.pdb
+     Number of residues:    50
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.00  NALI=  48  NORM=  50  RMS=    3.98  NSS=  38
+ PSI(end)=   82.00  NALI=  41  NORM=  50  RMS=    2.73  CO_p= 12.80  CO_e= 13.40
+ Sstr(LG)=  603.57  NALI=  41  NORM=  50  RMS=    2.73
+E-value=     0.38138907E-02
+
+Z-score=      5.4960468        -ln(E)=      5.5691054    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+           **       * ********** * ******** ********** ********* 
+Prediction GCEEAGCPEG SACNIITDRC T.CSGVRCRV HCPHGFQRSR YGCEFCKCRL
+Prediction SSS--SS--- -SSS------ S.SSSSS--- ----SSSS-- ----------
+               |||||| |||||||||| | |||||||| |||||||||| |||       
+Experiment SSSSSSS--- -SS------S SSSSSSSSSS ----SSSS-- ---------.
+Experiment TCDISECPEG MMCSRLTNKC DCKIDINCRK TCPNGLKRDK LGCEYCECR.
+           **       * ********** * ******** ********** ********* 
+  
+               
+Prediction EPMK
+Prediction SSSS
+               
+Experiment ....
+Experiment ....
+               
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.004 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.004 sec >
+   < Tertiary structure matching:         0.004 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

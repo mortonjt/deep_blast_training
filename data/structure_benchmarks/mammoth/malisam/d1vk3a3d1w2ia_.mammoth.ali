@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1vk3a3d1w2ia_/1vk3_Ah.pdb
+     Number of residues:    69
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1vk3a3d1w2ia_/1w2i_Ah.pdb
+     Number of residues:    90
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   89.86  NALI=  62  NORM=  69  RMS=   10.03  NSS=  43
+ PSI(end)=   36.23  NALI=  25  NORM=  69  RMS=    2.89  CO_p=  4.17  CO_e=  4.38
+ Sstr(LG)=  612.55  NALI=  25  NORM=  69  RMS=    2.89
+E-value=     0.20057035    
+
+Z-score=      1.1485804        -ln(E)=      1.6065902    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+              ******* **       * * ******** *****                
+Prediction KASRPGQVIV IFGGATGRDG AGGVLSATSE LVAKG...N. ......LGAI
+Prediction SSS----SSS SS--SS---- -HHHHHHHHH HHH--...-. ......-SSS
+             |||||||| |      ||| | |||||||| |||||   |        ||| 
+Experiment ..SSSSSSSS S-...--SS- H.HHHHHHHH HHH-----SS SSS-----SS
+Experiment ..AIVRAHLK IY...GRVQG V.GFRWSMQR EARKLGVNGW VRNLPDGSVE
+              ******* **       * * ******** *****                
+  
+           *                                                
+Prediction V......H.. ....LDRVPL RLFGDVVAEV IEEPVYRVMY .....
+Prediction S......S.. ....SSSSS- ----SSSSSS -----SSSSS .....
+           |                 ||   ||||||||    ||            
+Experiment SSSS----HH HHHHHHHHHH ----SSSSSS SSSS------ --SSS
+Experiment AVLEGDEERV EALIGWAHQG PPLARVTRVE VKWEQPKGEK GFRIV
+           *                                                
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.004 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.005 sec >
+   < Tertiary structure matching:         0.002 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

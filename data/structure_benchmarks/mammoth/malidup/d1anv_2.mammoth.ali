@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1anv_2/1anv_A1.pdb
+     Number of residues:    92
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1anv_2/1anv_A2.pdb
+     Number of residues:   135
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   98.91  NALI=  91  NORM=  92  RMS=   14.59  NSS=  50
+ PSI(end)=   40.22  NALI=  37  NORM=  92  RMS=    3.08  CO_p=  7.55  CO_e=  4.22
+ Sstr(LG)=  600.29  NALI=  37  NORM=  92  RMS=    3.08
+E-value=     0.24110871E-01
+
+Z-score=      3.5155698        -ln(E)=      3.7250925    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                       **** ***                  
+Prediction .TGCALW..L HRCAEIEGEL KCLHGSIMIN KEHVIENVVQ ISNTDARCCV
+Prediction .SSSSSS..S SSSS-----S S-----SSSS SSSSS----- SSSSSSSS--
+            ||||      |||||||||     |||||||          | ||      ||
+Experiment SSSSSSSSSS S--SS----- ----HHHHHH HHHHHHHHHH HHH-------
+Experiment GHGHLLMPLR CECNSKPGHA PFLGRQLPKL TPFALSNAED LDADLISDKS
+                                       **** ***                  
+  
+                               * * ******** ********** ********* 
+Prediction HDAACPANQF SG.......K SCGMFFSEGA KAQVAFKQIK AFMQALYPNA
+Prediction --SS-----S S-.......- --SSSSS--H HHHHHHHHHH HHHHHHHHHH
+                               | ||| |||||| |||||||||| |||||     
+Experiment SSSSS--SSS SSSSSSS--- --SSSSSS-- HHHHHHHHHH HHHH----HH
+Experiment VLASVHHPAL IVFQCCNPGG PNCDFKISAP DLLNALVMVR SLWSENFTEL
+                               * * ******** ********** ********* 
+  
+           *                                    
+Prediction Q......... .......... .......... ....
+Prediction H......... .......... .......... ....
+                                                
+Experiment HHHHHHHHHH HHHHHHHHHH HHHHHH---S SSSS
+Experiment PRMVVPEFKW STKHQYRNVS LPVAHSDARQ NPFD
+           *                                    
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.002 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.005 sec >
+   < Tertiary structure matching:         0.002 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

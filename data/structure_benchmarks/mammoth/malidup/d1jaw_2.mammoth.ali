@@ -1,0 +1,91 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1jaw_2/1jaw_A1.pdb
+     Number of residues:   105
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1jaw_2/1jaw_A2.pdb
+     Number of residues:   159
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.19  NALI= 101  NORM= 105  RMS=    7.56  NSS=  81
+ PSI(end)=   72.38  NALI=  76  NORM= 105  RMS=    3.58  CO_p=  6.13  CO_e=  4.94
+ Sstr(LG)= 1240.02  NALI=  76  NORM= 105  RMS=    3.58
+E-value=     0.44390226E-04
+
+Z-score=      10.254530        -ln(E)=      10.022491    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+               ****** ********** **********     ****** ******* * 
+Prediction SPEEIAVLRR AGEITAMAHT RAMEKCRPGM ....FEYHLE GEIHHEF.NR
+Prediction HHHHHHHHHH HHHHHHHHHH HHHHHHH--- ....HHHHHH HHHHHHH.H-
+              ||||||| |||||||||| ||||||||||     |||||| |||||||   
+Experiment ...HHHHHHH HHHHHHHHHH HHHHHH---H HHHHHHHHHH HHHHHHHH--
+Experiment ...FTQAQRE IYDIVLESLE TSLRLYRPGT SILEVTGEVV RIMVSGLVKL
+               ****** ********** **********     ****** ******* * 
+  
+             **                               *        ********* 
+Prediction HGARY...PS YNTIVGSGEN GCI....... ..LH....YT ENECEMRDG.
+Prediction --SSS...SS -SSSSS---- SS-....... ..--....-- --SSSS---.
+           || ||   ||  |   |      ||          ||     | ||||||||| 
+Experiment ---SSS--HH HHHHHHH--S SSSSSSS--- ---SSSSSS- --SSSS----
+Experiment GILKGDVDEL IAQNAHRPFF MHGLSHWLGL DVHDVGVYGQ DRSRILEPGM
+             **                               *        ********* 
+  
+           *********           * ********** ****                 
+Prediction DLVLIDAGC. ........EY KGYAGDITRT FPVNG..... ..........
+Prediction -SSSSSSSS. ........-- ---SSSSSSS SS---..... ..........
+           ||||||| |          || |||||||||                       
+Experiment SSSSSSSSSS S--------S SSSSSSSSSS SS-----SSS SSSSSSS---
+Experiment VLTVEPGLYI APDAEVPEQY RGIGIRIEDD IVITETGNEN LTASVVKKPE
+           *********           * ********** ****                 
+  
+                       
+Prediction .......... .
+Prediction .......... .
+                       
+Experiment HHHHHHHHHH H
+Experiment EIEALMVAAR K
+                       
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.003 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.007 sec >
+   < Tertiary structure matching:         0.004 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

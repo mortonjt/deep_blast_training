@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1b0pa2d1k0da2/1b0p_Ah.pdb
+     Number of residues:    71
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1b0pa2d1k0da2/1k0d_Ac.pdb
+     Number of residues:    92
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   94.37  NALI=  67  NORM=  71  RMS=    9.31  NSS=  44
+ PSI(end)=   59.15  NALI=  42  NORM=  71  RMS=    4.00  CO_p=  4.81  CO_e=  5.55
+ Sstr(LG)=  590.95  NALI=  42  NORM=  71  RMS=    4.00
+E-value=     0.75487593E-02
+
+Z-score=      4.7648451        -ln(E)=      4.8863721    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+              ******  ** ******  ** ****  * ******  ** **        
+Prediction ...YVYVATV SMGYSKQQFL KVLKEAESFP GPSLVI..AY ATCIN.....
+Prediction ...SSSSSSS S----HHHHH HHHHHHHH-- --SSSS..SS SSS--.....
+              |||||    ||||||||| || ||||||| ||||||   |           
+Experiment SSS--SSSS. S----HHHHH HH.HHHH--- --SSSSSSS- --HHHHHHHH
+Experiment QPLEGYTLF. SHRSAPNGFK VA.IVLSELG FHYNTIFLDF NLGEHRAPEF
+              ******  ** ******  ** ****  * ******  ** **        
+  
+                 **** *** *           ***                  
+Prediction .QGLRKYWPL FRYDPRLAAQ GKNPFQLDSK A......... ....
+Prediction .-----SSSS SSSSSSSS-- --SSSSSSSS S......... ....
+                ||||| ||| ||||||                           
+Experiment HHHHH----- SSS.S----- SSSS---HHH HHHHHHHHH- ----
+Experiment VSVNPNARVP ALI.DHGMDN LSIWESGAIL LHLVNKYYKE TGNP
+                 **** *** *           ***                  
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.003 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.005 sec >
+   < Tertiary structure matching:         0.004 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

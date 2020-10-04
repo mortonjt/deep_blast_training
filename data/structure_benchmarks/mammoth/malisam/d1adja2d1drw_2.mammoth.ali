@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1adja2d1drw_2/1adj_Ah.pdb
+     Number of residues:    95
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1adja2d1drw_2/1drw__c.pdb
+     Number of residues:   110
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.84  NALI=  92  NORM=  95  RMS=    8.94  NSS=  69
+ PSI(end)=   34.74  NALI=  33  NORM=  95  RMS=    3.99  CO_p=  4.00  CO_e=  8.50
+ Sstr(LG)=  561.42  NALI=  33  NORM=  95  RMS=    3.99
+E-value=     0.56450419E-01
+
+Z-score=      2.5891012        -ln(E)=      2.8743926    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                     * **** *   **               
+Prediction SENPILDAEA VVLLYECLKE LGLRRLKVKL S.SVGLGEEA RAHLKEVERH
+Prediction HHHHHHHHHH HHHHHHHHH- -----SSSSS S.SSS----H HHHHHHHHHH
+             |||||||| |||||||| |  |||||||   | |||   || ||||||||||
+Experiment ..HHHHHHHH HHHHHHHHHH ---SSSSSSS S-----HHHH HHHHHHHHHH
+Experiment ..VGVNVMLK LLEKAAKVMG DYTDIEIIEA HHRHKVDAPS GTALAMGEAI
+                                     * **** *   **               
+  
+                                                  **** **********
+Prediction LERL.....S V........P YELEPALVRG LDY...YVRT AFEVHHEEIG
+Prediction HH--.....- -........S SSS---SSS- ---...---- SSSSSS----
+           |||      | |        | |||| |   | |||   |||| |||     ||
+Experiment HH---SSSSS SSSSS----- SSS----SSS SSSS-----S SSSSSSS---
+Experiment AHALDKDLKD CAVYSREGHT GERVPGTIGF ATVRAGDIVG EHTAMFADIG
+                                                  **** **********
+  
+           ********** *
+Prediction AQSALGGGGR Y
+Prediction --SSSSSSSS S
+           |||||       
+Experiment -SSSSSSSSS S
+Experiment ERLEITHKAS S
+           ********** *
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.002 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.004 sec >
+   < Tertiary structure matching:         0.006 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

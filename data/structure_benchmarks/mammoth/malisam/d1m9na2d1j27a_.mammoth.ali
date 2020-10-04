@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1m9na2d1j27a_/1m9n_Ai.pdb
+     Number of residues:    83
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1m9na2d1j27a_/1j27_Ac.pdb
+     Number of residues:    98
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.39  NALI=  80  NORM=  83  RMS=    8.51  NSS=  62
+ PSI(end)=   48.19  NALI=  40  NORM=  83  RMS=    3.93  CO_p=  4.00  CO_e=  4.04
+ Sstr(LG)=  583.73  NALI=  40  NORM=  83  RMS=    3.93
+E-value=     0.13296181E-01
+
+Z-score=      4.1571289        -ln(E)=      4.3202784    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+             ******** **  ****** *******           **   ***      
+Prediction SPGFINLCDA LNAWQLVKEL KQALGIP... .AAASFKHVS PAGA..AVGI
+Prediction HHHHHHHHHH HHHHHHHHHH HH-----... .SSSS----- SSSS..S---
+           |||||||||| ||  |||||| |||||||        || ||| |||     ||
+Experiment SSS-HHHHHH HH..HHHHHH HH----SSSS SSS------S SSSSSSS---
+Experiment ARSLKEKRAL IK..PALERL KARFPVSAAR LYGLDAWGYE VVGFTLLGND
+             ******** **  ****** *******           **   ***      
+  
+             *  **  * ********                                  
+Prediction PESAVRDLIV ASIAVKYT.. .....QSNSV CYAKDGQVIG IGAGQ....
+Prediction ----HHHHHH HHHHHHH-.. .....----S SS-----SSS SSSSS....
+           |||||||||| ||||||||        |||||     ||| |           
+Experiment -HHHHHHHHH HHHHHHHH-- -SSSSSSSSS SS-----SSS SSSSSSSSS
+Experiment PAWVEETMRA AARFLAEAGG FQVALEEFRL EAFELMKAYL GLYTARLET
+             *  **  * ********                                  
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.006 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.007 sec >
+   < Tertiary structure matching:         0.006 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

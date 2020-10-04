@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1itbb1/1itb_B1.pdb
+     Number of residues:    96
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1itbb1/1itb_B2.pdb
+     Number of residues:   103
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.88  NALI=  93  NORM=  96  RMS=    4.23  NSS=  76
+ PSI(end)=   91.67  NALI=  88  NORM=  96  RMS=    3.54  CO_p= 13.38  CO_e= 14.37
+ Sstr(LG)= 1183.89  NALI=  88  NORM=  96  RMS=    3.54
+E-value=     0.35650311E-05
+
+Z-score=      12.948027        -ln(E)=      12.544338    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                 **** *********  ********** *   ****** ****  ****
+Prediction ..CKEREEKI ILVSSANEI. DVRPCPLNPN E...HKGTIT WYKDDSKTPV
+Prediction ..SSSSSSSS SSSS-----. SSSSSSS--- S...S--SSS SS-----SSS
+                ||||| |||||||||  ||||       |   |||||| |||  |||||
+Experiment SSSSSS--SS SSSS-----H HHHHHHHHHH HH----SSSS SSS-.---SS
+Experiment NLCYNAQAIF KQKLPVAGDG GLVCPYMEFF KNENNELPKL QWYK.DCKPL
+                 **** *********  ********** *   ****** ****  ****
+  
+           ** ******* ********** ********   ********** **********
+Prediction STEQASRIHQ HKEKLWFVPA KVEDSGHY.. YCVVRNSSYC LRIKISAKFV
+Prediction SS------SS ----SSS--- ---SSSSS.. SSSS-----S SSSSSSSSSS
+           |  ||||||| |||||||||| ||||||||   |||||||||| |||||||   
+Experiment SS.-----SS ----SSSS-- ---SSSSSSS SSSSS----- SSSSSSSSSS
+Experiment LL.DNIHFSG VKDRLIVMNV AEKHRGNYTC HASYTYLGKQ YPITRVIEFI
+           ** ******* ********** ********   ********** **********
+  
+           *** 
+Prediction ENE.
+Prediction SSS.
+               
+Experiment SSSS
+Experiment TLEE
+           *** 
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.008 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.007 sec >
+   < Tertiary structure matching:         0.005 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

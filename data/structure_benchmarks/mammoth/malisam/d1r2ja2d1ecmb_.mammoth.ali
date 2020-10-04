@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1r2ja2d1ecmb_/1r2j_Ai.pdb
+     Number of residues:    86
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1r2ja2d1ecmb_/1ecm_Bc.pdb
+     Number of residues:    95
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   95.35  NALI=  82  NORM=  86  RMS=   15.90  NSS=  65
+ PSI(end)=   36.05  NALI=  31  NORM=  86  RMS=    1.24  CO_p=  6.33  CO_e=  4.05
+ Sstr(LG)=  692.81  NALI=  31  NORM=  86  RMS=    1.24
+E-value=     0.74327252E-01
+
+Z-score=      2.2851632        -ln(E)=      2.5992776    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                                                 
+Prediction GLGLGSRENG EFTAHVGSLC SSLRSVMTSQ GMAAWTVQRL ....GLAGSG
+Prediction SSSSS--HHH HHHHHHHH-H HHHHHHHHHH HHHHHHHHHH ....HHHHHH
+              ||||||| |||||  ||| |||||||||| |||||   |       |    
+Experiment ...HHHHHHH HHHHHHHHHH HHHHHHHHHH HHHHHHHH-- -HHHHHHHHH
+Experiment ...PLLALRE KISALDEKLL ALLAERRELA VEVGKAKLLS HRPVRDIDRE
+                                                                 
+  
+                            **** ********** ********** *******
+Prediction ASLPMLVA.. ......ASLA YGRKSVAWGC VGILRACRTA AVAHART
+Prediction H--HHHHH.. ......HHHH HHHHHHHHHH HHHHHHHHHH HHHHHHH
+           ||||||||         |||| |||||||||| |||||||||| |      
+Experiment HHHHHHHHHH HH---HHHHH HHHHHHHHHH HHHHHHHHHH HHHHHHH
+Experiment RDLLERLITL GKAHHLDAHY ITRLFQLIIE DSVLTQQALL QQHLNKI
+                            **** ********** ********** *******
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.005 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.007 sec >
+   < Tertiary structure matching:         0.006 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

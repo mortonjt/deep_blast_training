@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1iwga1/1iwg_A1.pdb
+     Number of residues:    97
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1iwga1/1iwg_A3.pdb
+     Number of residues:   107
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   90.72  NALI=  88  NORM=  97  RMS=    4.70  NSS=  69
+ PSI(end)=   83.51  NALI=  81  NORM=  97  RMS=    3.70  CO_p=  5.88  CO_e=  5.08
+ Sstr(LG)= 1206.10  NALI=  81  NORM=  97  RMS=    3.70
+E-value=     0.24622882E-04
+
+Z-score=      10.883993        -ln(E)=      10.611834    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+             ******** ********** **********   ******** ***  **** 
+Prediction .IAPPAVTIS ASYPGADAKT VQDTVTQVIE .QNMNGIDNL MYM..SSNS.
+Prediction .SSSSSSSSS SS-------H HHHHHHHHHH .HHHHH---- -SS..SSSS.
+            ||||||||| |||||||||| ||||||||||   |   |||| |||   ||| 
+Experiment SSS--SSSSS SS------HH HHHHHHHHHH HHHHHH---- SSSSSS--SS
+Experiment EDQGVFMTMV QLPAGATQER TQKVLNEVTH YYLTKEKNNV ESVFAVNGFG
+             ******** ********** **********   ******** ***  **** 
+  
+               ****** ******          ***** **********           
+Prediction ....DSTGTV QITLTF.... ..ESGTDADI AQVQVQNKLQ LAMPLLPQEV
+Prediction ....-----S SSSSSS.... ..----HHHH HHHHHHHHHH HHHHHHH--S
+                ||||| ||||           |||||| ||||||||            |
+Experiment --------SS SSSSSSS--S SS--HHHHHH HHHHHHHHHH ........H-
+Experiment FAGRGQNTGI AFVSLKDWAD RPGEENKVEA ITMRATRAFS ........QI
+               ****** ******          ***** **********           
+  
+           ********** *   
+Prediction QQQGVSVEKS S...
+Prediction SSSSSSSSSS S...
+           |||||          
+Experiment ----SSSSSS ----
+Experiment KDAMVFAFNL PAIV
+           ********** *   
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.006 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.008 sec >
+   < Tertiary structure matching:         0.005 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

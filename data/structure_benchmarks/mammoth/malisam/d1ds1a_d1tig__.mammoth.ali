@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1ds1a_d1tig__/1ds1_Ah.pdb
+     Number of residues:    95
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1ds1a_d1tig__/1tig__c.pdb
+     Number of residues:    88
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   93.18  NALI=  82  NORM=  88  RMS=    9.31  NSS=  51
+ PSI(end)=   42.05  NALI=  37  NORM=  88  RMS=    3.76  CO_p=  4.00  CO_e=  4.12
+ Sstr(LG)=  554.14  NALI=  37  NORM=  88  RMS=    3.76
+E-value=     0.29937002E-01
+
+Z-score=      3.2812246        -ln(E)=      3.5086600    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                      **                *** ****                 
+Prediction .....TSVDC TAPGALATAL DTFNAEGSED GHLLLRGLPV EADADLPTTP
+Prediction .....SSSS- ----HHHHHH HHHH-SSS-- -SSSSSSSSS SS--SSSSSS
+                       |||||||||      ||||| ||||          |   || 
+Experiment SSSSSSSS-- -----HHHHH HHHHHHHH-- --SS...... ...S...SSS
+Experiment INVKEVRLSP TIEEHDFNTK LRNARKFLEK GDKV...... ...K...ATI
+                      **                *** ****                 
+  
+                        **  **   ** **   ** ******** * *********
+Prediction SSTPAPEDRS LLTMEAMLGL VGRRLQPNYV MLACSRADHE PGDLLIVDN
+Prediction ----SS---S SS-HHHHHHH HH-SS----S SSSSSS---- ---SSSSSS
+           ||| ||     ||||||||||        ||| ||||||| || |||      
+Experiment SS-----HHH HHHHHHHHHH HHHH----SS SSSSSS---- SSSSSSSSS
+Experiment RFKGRAITHK EIGQRVLDRL SEACADIAVV ETAPKMDGRN MFLVLAPKN
+                        **  **   ** **   ** ******** * *********
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.003 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.004 sec >
+   < Tertiary structure matching:         0.002 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

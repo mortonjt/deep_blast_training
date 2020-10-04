@@ -1,0 +1,67 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1fga___2/1fga_A2.pdb
+     Number of residues:    43
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1fga___2/1fga_A3.pdb
+     Number of residues:    42
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   88.10  NALI=  37  NORM=  42  RMS=    2.47  NSS=  25
+ PSI(end)=   88.10  NALI=  37  NORM=  42  RMS=    2.47  CO_p=  9.52  CO_e=  9.05
+ Sstr(LG)=  640.75  NALI=  37  NORM=  42  RMS=    2.47
+E-value=     0.10372180E-01
+
+Z-score=      4.4239574        -ln(E)=      4.5686280    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+             ********  ********* *****   ** ********** ***   
+Prediction ERGVVSIKGV .CANRYLAMK EDGRL...LA SKCVTDECFF FERLES
+Prediction SSSSSSSSS- .---SSSSS- -----...-- ------SSSS SSSSSS
+             |||||||   ||||||||| ||         |||||||          
+Experiment ..SSSSSSS- ----SSSSS- ----SSS--- SS---SSSSS SSS...
+Experiment ..NYNTYRSR KYTSWYVALK RTGQYKLGSK TGPGQKAILF LPM...
+             ********  ********* *****   ** ********** ***   
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.002 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.002 sec >
+   < Tertiary structure matching:         0.002 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

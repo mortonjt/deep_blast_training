@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1n81a_/1n81_A1.pdb
+     Number of residues:    93
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1n81a_/1n81_A2.pdb
+     Number of residues:    93
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   90.32  NALI=  84  NORM=  93  RMS=    3.15  NSS=  69
+ PSI(end)=   88.17  NALI=  82  NORM=  93  RMS=    2.79  CO_p= 13.85  CO_e= 15.57
+ Sstr(LG)= 1228.17  NALI=  82  NORM=  93  RMS=    2.79
+E-value=     0.18409941E-04
+
+Z-score=      11.194571        -ln(E)=      10.902620    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                    * ********** ********** ********** **********
+Prediction YHYEHETHAP LSPRIRKVGD IEFHACSDYI YLLMTLSKDP EKFNYALKDR
+Prediction HHHHHHHHHH HHHHHHHHHH HHHHHHHHHH HHHHHHH--- HHHHHHHHHH
+                      |||||||||| |||||||||| ||    |||| ||||||||||
+Experiment .......HHH HHHHHHHHHH HHHHHHHHHH HHHHHHH--- -HHHHHHHHH
+Experiment .......VTE DYIKKIDDYL WVEQRVIEEV SINVDHAREV KEKKRIMNDK
+                    * ********** ********** ********** **********
+  
+           ********** *** ****** ********** ********** **        
+Prediction VSIRRYVRKN QNRYNYFLIE ERVQDNIVNR ISDRLISYCT DK........
+Prediction HHHHHHHHHH HH---SSSSS --HHHHHHHH HHHHHHHHHH HH........
+           |||||||||| ||| |||||| |||||||||| ||||                 
+Experiment HHHHHHHHHH HH-.--SSSS --HHHHHHHH HHHHHHHHHH HHHHHHHHHH
+Experiment KLIRMLFDTY EYV.KDVKFT DDQYKDAAAR ISQFLIDVVD SYIIKPIPAL
+           ********** *** ****** ********** ********** **        
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.007 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.007 sec >
+   < Tertiary structure matching:         0.005 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

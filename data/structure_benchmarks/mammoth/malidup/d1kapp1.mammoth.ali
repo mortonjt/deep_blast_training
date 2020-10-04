@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1kapp1/1kap_P1.pdb
+     Number of residues:    81
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1kapp1/1kap_P2.pdb
+     Number of residues:   101
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   90.12  NALI=  73  NORM=  81  RMS=   13.19  NSS=  55
+ PSI(end)=   33.33  NALI=  27  NORM=  81  RMS=    3.97  CO_p=  4.33  CO_e=  0.00
+ Sstr(LG)=  523.08  NALI=  27  NORM=  81  RMS=    3.97
+E-value=     0.16749797    
+
+Z-score=      1.3619515        -ln(E)=      1.7867841    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+           ***      * **                     ** ****** ***    ***
+Prediction RTGDTVYGFN SNTERDFYSA TSSSSKLVFS VWDAGGNDTL DFS....GFS
+Prediction SSS-SS---- -------SSS -----SSSSS SS-----SSS SSS....---
+           |||     || ||||||||   |||||||| | ||  |||||| ||      ||
+Experiment SSS....-SS SSS---SS.. SS---SSSSS SSS.---HHH HHHHHHHHH-
+Experiment GAG....ADT FVYGDIAE.. SSAAAPDTLR DFV.SGQDKI DLSGLDAFVN
+           ***      * **                     ** ****** ***    ***
+  
+           ****                  *          **                   
+Prediction QNQK...... INLNEK.... ALSDVGGLKG NVSIA.AGVT VENAI.....
+Prediction --SS...... SS----.... -SSS-----S SSSSS.---S SSSSS.....
+           ||||       ||||||     |||    ||| ||    |||            
+Experiment --SSSS---- ------SSSS SSS----SSS SSSS------ SSSSSS----
+Experiment GGLVLQYVDA FAGKAGQAIL SYDAASKAGS LAIDFSGDAH ADFAINLIGQ
+           ****                  *          **                   
+  
+                  
+Prediction .......
+Prediction .......
+                  
+Experiment SS-SSSS
+Experiment ATQADIV
+                  
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.006 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.009 sec >
+   < Tertiary structure matching:         0.004 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

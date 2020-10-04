@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1g1ba_/1g1b_A1.pdb
+     Number of residues:    99
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1g1ba_/1g1b_A2.pdb
+     Number of residues:    65
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   95.38  NALI=  62  NORM=  65  RMS=    6.96  NSS=  42
+ PSI(end)=   72.31  NALI=  47  NORM=  65  RMS=    3.58  CO_p=  4.67  CO_e=  4.75
+ Sstr(LG)=  752.46  NALI=  47  NORM=  65  RMS=    3.58
+E-value=     0.21885057E-02
+
+Z-score=      6.0901485        -ln(E)=      6.1245363    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                       **** ******      *********
+Prediction SHPALTQLRA LRYCKEIPAL DPQLLDWLLL EDSMTKRFEQ QGKTVSVTMI
+Prediction HHHHHHHHHH HHHH--SSSS ---HHHHHHH --HHHHHHH- ---SSSSSSS
+                               | ||||     |     |      ||||||||||
+Experiment .......... .........H HHHHHHHHH- --SSSSS... SS---SSSSS
+Experiment .......... .........S GPELALQKLG KTPLGRY... LFTSSTLTRD
+                                       **** ******      *********
+  
+                               * ********** ***** **** ********  
+Prediction REGFVEQNEI PEELPLLPKE SRYWLREILL CADGEPWLAG RTVVPVST..
+Prediction SSSS----SS SSSS------ --SSSSSSSS S----SSSSS SSSS----..
+                           || || |||||||||| ||||| |||| ||        
+Experiment ..S.....S. .....SSSS- ---SSSSSSS S----.-SSS SSSS---SSS
+Experiment ..F.....I. .....EIGRD AGLWGRRSRL RLSGK.PLLL TELFLPASPL
+                               * ********** ***** **** ********  
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.006 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.003 sec >
+   < Tertiary structure matching:         0.002 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1d8ha_/1d8h_A1.pdb
+     Number of residues:   110
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1d8ha_/1d8h_A2.pdb
+     Number of residues:    68
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   97.06  NALI=  66  NORM=  68  RMS=    9.80  NSS=  41
+ PSI(end)=   44.12  NALI=  30  NORM=  68  RMS=    3.72  CO_p=  0.00  CO_e=  4.60
+ Sstr(LG)=  424.34  NALI=  30  NORM=  68  RMS=    3.72
+E-value=     0.60090172E-01
+
+Z-score=      2.5203219        -ln(E)=      2.8119090    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                                                 
+Prediction ELRSFIELEM KFGVIIDAKG PDRVNPPVSS QCVFTELDAH LTPNIDASLF
+Prediction SSSSSSSSSS SS-SSS---- --SSSS---- --SSS---SS SSSSSS--HH
+                                                   ||| ||  |     
+Experiment .......... .......... .......... .......SSS SSSSSSSSSS
+Experiment .......... .......... .......... .......DVK ISLNLELPVP
+                                                                 
+  
+                   *       ***** ********** *       *  ***       
+Prediction KELSKYIRGI SEVTENTGKF SIIESQTRDS VYRVG.PRFL RMSTDIKTGR
+Prediction HHHHHHHHHH HHH---SSSS SSSSSSSSSS SS---.--SS SSSSS----S
+             |||              || |||||||||| ||||| |||| |||   ||||
+Experiment -HHHHHHHH. .....HHH-- SSSSSSSSSS SS----SSSS SSSSS-----
+Experiment DNDPPEKYK. .....SQSPI SERTKDRVSY IHNDSCTRID ITKVENHSET
+                   *       ***** ********** *       *  ***       
+  
+            *********
+Prediction VGQFIEKRHV
+Prediction SSSSSSSSSS
+           ||||      
+Experiment SSSSSSSSSS
+Experiment THEVELEINT
+            *********
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.007 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.006 sec >
+   < Tertiary structure matching:         0.003 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

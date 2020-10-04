@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1li1a1/1li1_A1.pdb
+     Number of residues:   110
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1li1a1/1li1_A2.pdb
+     Number of residues:   114
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   98.18  NALI= 108  NORM= 110  RMS=    3.25  NSS=  97
+ PSI(end)=   92.73  NALI= 102  NORM= 110  RMS=    1.93  CO_p= 23.41  CO_e= 21.30
+ Sstr(LG)= 1824.84  NALI= 102  NORM= 110  RMS=    1.93
+E-value=     0.51289773E-06
+
+Z-score=      15.018831        -ln(E)=      14.483189    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+           ********** ********** **********  ********* **********
+Prediction GFLVTRHSQT IDDPQCPSGT KILYHGYSLL .YVQGNERAH GQDLGTAGSC
+Prediction SSSSSSSS-- ---SSS---- -SSSSSSSSS .SSS----SS SSS---SSSS
+           |||||||||| |||||||||| ||||||||||  ||||||||| ||||||||||
+Experiment SSSSSSS--- --SSSS---- -SSSSSSSSS SSS-----SS SSS---SSSS
+Experiment AMVMAVHSQT IQIPPCPSGW SSLWIGYSFV MHTSAGAEGS GQALASPGSC
+           ********** ********** **********  ********* **********
+  
+           ********** ****** *** ******** * ****          *******
+Prediction LRKFSTMPFL FCNINNVCNF ASRNDYSY.W LSTPEPMP.. .MSMAPITGE
+Prediction S-----SSSS SS-----SSS SS--SSSS.S S----SSS.. .----SSS--
+           |||||||||| |||||    | |||||||| | || || ||    |||||||||
+Experiment SS----SSSS SS----.-SS SS--SSSSSS SSS------- -SSSSSS---
+Experiment LEEFRSAPFI ECHGRG.TCN YYANAYSFWL ATIERSEMFK KPTPSTLKAG
+           ********** ****** *** ******** * ****          *******
+  
+           ********** ****
+Prediction NIRPFISRCA VCEA
+Prediction SSSSSSSSSS SSSS
+           ||||||||       
+Experiment -SSSSSSSSS SSSS
+Experiment ELRTHVSRCQ VCMR
+           ********** ****
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.009 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.012 sec >
+   < Tertiary structure matching:         0.007 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

@@ -1,0 +1,91 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1i31a_/1i31_A1.pdb
+     Number of residues:   149
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1i31a_/1i31_A2.pdb
+     Number of residues:   107
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   94.39  NALI= 101  NORM= 107  RMS=   19.78  NSS=  78
+ PSI(end)=   28.97  NALI=  31  NORM= 107  RMS=    3.95  CO_p=  4.00  CO_e=  4.00
+ Sstr(LG)=  609.94  NALI=  31  NORM= 107  RMS=    3.95
+E-value=     0.10161889    
+
+Z-score=      1.9353906        -ln(E)=      2.2865258    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                           **                              ******
+Prediction IGWRREGIKY RRNELFLDVL ESVNLLMSPQ GQVLSAHVS. ....GRVVMK
+Prediction SSSSSSSSS- --SSSSSSSS SSSSSSS--- --SSSSSSS. ....SSSSSS
+             ||||       |||||||  ||||    || |||||||||      ||||||
+Experiment SSSSSSSSSS -----SSSS. SSSSSS---- -SSSSSSSSS SS-----SSS
+Experiment PFRVIPLVRE VGRTKLEVK. VVIKSNFKPS LLAQKIEVRI PTPLNTSGVQ
+                           **                              ******
+  
+           *********                                             
+Prediction SYLSGMPECK FGMNDKIKQS IAIDDCTFHQ CVRLSERSIS FIPPDGEFEL
+Prediction S------SSS SSSSS----- SSS--SSS-- --SS----SS SSS----SSS
+           |||||||       ||||||| ||  |||||       |||        |||||
+Experiment SS-----SSS ..-----SSS SS..S----. .....---.. .....SSSSS
+Experiment VICMKGKAKY ..KASENAIV WK..IKRMA. .....GMK.. .....ESQIS
+           *********                                             
+  
+                    *    ******* ******                          
+Prediction MRYRTTKDII LPFAPSGLKV RYLKVFEPKL NYSDHDVIKW VRYIGRSGIY
+Prediction SSSSS----- -------SSS SSSSSSS--- -HHHHHHHHH HHHHHHHHHH
+           | |||||||     ||||||| ||                              
+Experiment S.SSSSSS-- ...---SSSS SSSSSSSS.. .......... ..........
+Experiment A.EIELLPTN ...DKKKWAR PPISMNFE.. .......... ..........
+                    *    ******* ******                          
+  
+              
+Prediction ETR
+Prediction HHH
+              
+Experiment ...
+Experiment ...
+              
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.006 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.008 sec >
+   < Tertiary structure matching:         0.003 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

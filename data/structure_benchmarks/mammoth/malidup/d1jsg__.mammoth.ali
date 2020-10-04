@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1jsg__/1jsg_A1.pdb
+     Number of residues:    54
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1jsg__/1jsg_A2.pdb
+     Number of residues:    57
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   94.44  NALI=  51  NORM=  54  RMS=    8.05  NSS=  39
+ PSI(end)=   81.48  NALI=  44  NORM=  54  RMS=    1.90  CO_p=  8.21  CO_e=  8.07
+ Sstr(LG)=  775.84  NALI=  44  NORM=  54  RMS=    1.90
+E-value=     0.27114514E-02
+
+Z-score=      5.8610215        -ln(E)=      5.9102712    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                         ******* ********** ********** ** *******
+Prediction .....CPTLG EAVTDHPDRL WAWEKFVYLD EKQHAWLPLT IEIKDRLQLR
+Prediction .....HHHHH HHHHHHHHHH HH-----SS- ----SSSSSS SSS-----SS
+                  ||| |  ||||||    |||||||| |||||||||| || |||||||
+Experiment SSSSSS-SSS S-.--SSSSS SS-----SS- ----SSSSSS SS.S----SS
+Experiment LGRPMTPTQI GP.SLLPIMW QLYPDGRYRS SDSSFWRLVY HI.KIDGVED
+                         ******* ********** ********** ** *******
+  
+           ********
+Prediction VLLRREDV
+Prediction SSSSSSSS
+           ||      
+Experiment SSSSSSSS
+Experiment MLLELLPD
+           ********
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.005 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.003 sec >
+   < Tertiary structure matching:         0.003 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

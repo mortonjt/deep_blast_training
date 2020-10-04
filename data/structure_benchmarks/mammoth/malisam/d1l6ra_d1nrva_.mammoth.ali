@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1l6ra_d1nrva_/1l6r_Ah.pdb
+     Number of residues:    64
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1l6ra_d1nrva_/1nrv_Ac.pdb
+     Number of residues:   100
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   98.44  NALI=  63  NORM=  64  RMS=    6.83  NSS=  51
+ PSI(end)=   67.19  NALI=  43  NORM=  64  RMS=    3.59  CO_p=  4.94  CO_e=  5.22
+ Sstr(LG)=  761.89  NALI=  43  NORM=  64  RMS=    3.59
+E-value=     0.38092915E-02
+
+Z-score=      5.4973380        -ln(E)=      5.5703121    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                 **** ********** ******                     *****
+Prediction ...LTVSLLS GNVIPVVYAL KIFLGI.... .NGPVFGENG GI...MFDND
+Prediction ...SSSSSS- ----HHHHHH HH----.... .--SSS---- -S...SS---
+                 |||| |||||||||| ||||||      |||  |||| ||   |||||
+Experiment SSSS---SSS ----HHHHHH HHH-SS---S SSSSSS---- --SSSSSS--
+Experiment IHRTQHWFHG RISREESHRI IKQQGLVDGL FLLRDSQSNP KAFVLTLCHH
+                 **** ********** ******                     *****
+  
+           ****                    * ****** *******             
+Prediction GSIK...... KF........ FSGEDKAFAV NKLKEMYS.. .........
+Prediction --SS...... SS........ ------HHHH HHHHHHHH.. .........
+           |||        ||         |||||||||| ||                  
+Experiment --SSSSSSS- ---SS----- -SSS---HHH HHHH-SS--- -SSSSSSSS
+Experiment QKIKNFQILP CTFFSLDDGN TKFSDLIQLV DFYQLNKGVL PCKLKHHCI
+           ****                    * ****** *******             
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.002 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.004 sec >
+   < Tertiary structure matching:         0.003 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

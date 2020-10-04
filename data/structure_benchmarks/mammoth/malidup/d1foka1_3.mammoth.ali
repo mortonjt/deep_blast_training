@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1foka1_3/1fok_A1.pdb
+     Number of residues:   140
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1foka1_3/1fok_A3.pdb
+     Number of residues:   100
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   92.00  NALI=  92  NORM= 100  RMS=   13.41  NSS=  68
+ PSI(end)=   31.00  NALI=  31  NORM= 100  RMS=    3.22  CO_p=  4.43  CO_e=  4.87
+ Sstr(LG)=  886.36  NALI=  31  NORM= 100  RMS=    3.22
+E-value=     0.10324315    
+
+Z-score=      1.9175050        -ln(E)=      2.2706684    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                                                 
+Prediction KIRTFGWVQN PGKFENLKRV VQVFDRNSKV HNEVKNIKIP TLVKESKIQK
+Prediction SSSSSSSSS- SSS-HHHHHH HHHH----HH HHHHHHHHHH HHHH---HHH
+                    | ||       | |||||||||| |   |||        ||||||
+Experiment .......HHH HH.......H HHHHHH---- H...HHH... ....HHHHHH
+Experiment .......VPK RV.......Y WEMLATNLTD K...EYV... ....RTRRAL
+                                                                 
+  
+                    * ******                  ******         ****
+Prediction ELVAIMNQHD LIYTYKELVG TGTSIRSEAP CDAIIQATIA DQGNKKGYID
+Prediction HHHHHHH--- -SSS-SSSSS SS------SS SS---SSSSS S------SSS
+           |||||||  | ||||                   |||             ||||
+Experiment HHHHHH-..- -SS--H.... ....H..... .HHHHHH-.. ....---SSS
+Experiment ILEILIK..A GSLKIE.... ....Q..... .IQDNLKK.. ....LGFDEV
+                    * ******                  ******         ****
+  
+           ********** **             **                      
+Prediction NWSSDGFLRW AH.......A LGFIEYINKS DSFVITDVGL AYSKSA
+Prediction S-HHHHHHHH HH.......H ---SSSS--- --SSSS-HHH HHHHHH
+           |||||||||| ||       | ||||    |  |||| | ||        
+Experiment --HHHHHHHH HH----SSSS ----SSSS-- -HHHHHHHHH HHHHH.
+Experiment IETIENDIKG LINTGIFIEI KGRFYQLKDH ILQFVIPNRG VTKQL.
+           ********** **             **                      
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.011 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.011 sec >
+   < Tertiary structure matching:         0.004 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

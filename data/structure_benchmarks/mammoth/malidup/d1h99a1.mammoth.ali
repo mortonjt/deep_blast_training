@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1h99a1/1h99_A1.pdb
+     Number of residues:   115
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1h99a1/1h99_A2.pdb
+     Number of residues:   105
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.19  NALI= 101  NORM= 105  RMS=    3.82  NSS=  89
+ PSI(end)=   90.48  NALI=  95  NORM= 105  RMS=    3.36  CO_p=  9.68  CO_e= 11.05
+ Sstr(LG)= 1288.97  NALI=  95  NORM= 105  RMS=    3.36
+E-value=     0.17265782E-05
+
+Z-score=      13.722402        -ln(E)=      13.269369    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                         ******* ********** ****     * **********
+Prediction GAMEKFKTLL YDIPIECMEV SEEIISYAKL QLGK..KLND SIYVSLTDHI
+Prediction SSSSS--HHH HHHHHHHHHH HHHHHHHHHH ----..HHHH HHHHHHHHHH
+                        |||||||| |||||||||| ||||     | ||||||||||
+Experiment .......... HHHHHHHHHH HHHHHHHHHH ---SSSS--- -HHHHHHHHH
+Experiment .......... MPNIINITKV MEEILSIVKY HFKIEFNEES LHYYRFVTDL
+                         ******* ********** ****     * **********
+  
+           ********** ** ******* ********** ********** **********
+Prediction NFAIQRNQKG LD.IKNALLW ETKRLYKDEF AIGKEALVMV KNKTGVSLPE
+Prediction HHHHHHH--- HH.HHHHHHH HHHHHHHHHH HHHHHHHHHH H----SSSS-
+           ||||||||||  | ||||||| |||||||||| |||||||||| ||||||||||
+Experiment HHHHHHH--- -SSSS-HHHH HHHHHHHHHH HHHHHHHHHH H----SSSS-
+Experiment KFFAQRLFNG THMEDDFLLD TVKEKYHRAY ECTKKIQTYI EREYEHKLTS
+           ********** ** ******* ********** ********** **********
+  
+           ********** ****   
+Prediction DEAGFIALHI VNAELNE
+Prediction HHHHHHHHHH HHHHHHH
+           ||||||||          
+Experiment HHHHHHHHHH HHHH...
+Experiment DELLYLTIDI ERVV...
+           ********** ****   
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.003 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.005 sec >
+   < Tertiary structure matching:         0.007 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

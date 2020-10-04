@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1dmza_d1hdha_/1dmz_Ah.pdb
+     Number of residues:    84
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1dmza_d1hdha_/1hdh_Ac.pdb
+     Number of residues:    81
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   85.19  NALI=  69  NORM=  81  RMS=   14.88  NSS=  42
+ PSI(end)=   25.93  NALI=  21  NORM=  81  RMS=    3.57  CO_p=  0.00  CO_e=  4.00
+ Sstr(LG)=  325.16  NALI=  21  NORM=  81  RMS=    3.57
+E-value=     0.46460779    
+
+Z-score=     0.52375965E-01    -ln(E)=     0.76656169    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                  **                    ******** 
+Prediction QGVNPFFIGR DNRLSRVHCF IFKKRHAVGK SMYESPAQGL DDIWYCHTGT
+Prediction SSSSSSSSSS ----HHHHHH HHHHHHHHHH -----SSSSS SSSSSSS---
+                      |||| ||||| |   | |||| ||      || ||| |||| |
+Experiment ........SS SSSSS--SSS SSS----SSS S-......-- -SSSSS----
+Experiment ........ET EAAHDENTVT GWELFGMRAI RQ......GD WKAVYLPAPV
+                                  **                    ******** 
+  
+           ********** *                                    
+Prediction QGTKFLLQDG LGMLQEQRVV LKQTAEEKDL VKK....... ....
+Prediction --SSSSS--- -SS---SSSS SSSS-HHHHH HHH....... ....
+           ||||        |||| ||     |||||                   
+Experiment -SS-SSSSS- ------HHHH HHHHHHHHHH HHHHHHHHHH ----
+Experiment GPATWQLYDL ARDPGEIHDL ADSQPGKLAE LIEHWKRYVS ETGV
+           ********** *                                    
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.007 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.005 sec >
+   < Tertiary structure matching:         0.002 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

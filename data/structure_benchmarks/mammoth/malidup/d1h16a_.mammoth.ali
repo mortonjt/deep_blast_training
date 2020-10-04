@@ -1,0 +1,115 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1h16a_/1h16_A1.pdb
+     Number of residues:   262
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1h16a_/1h16_A2.pdb
+     Number of residues:   317
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   95.80  NALI= 251  NORM= 262  RMS=   20.16  NSS= 150
+ PSI(end)=   11.83  NALI=  31  NORM= 262  RMS=    3.99  CO_p=  4.25  CO_e=  5.44
+ Sstr(LG)=  856.52  NALI=  31  NORM= 262  RMS=    3.99
+E-value=     0.23303777    
+
+Z-score=     0.96709431        -ln(E)=      1.4565547    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                                                 
+Prediction .......... .......... VLTGLPDAYG RGRIIGDYRR .VALYGIDYL
+Prediction .......... .......... SSSSSSS--H HHHHHHHHHH .HHHHHHHHH
+                                         ||     | |       |||||||
+Experiment HHHHHHHHHH HHHHHHHHHH ---SSS---- SSS---SSSS S---HHHHHH
+Experiment GKQMQFFGAR ANLAKTMLYA INGGVDEKLK MQVGPKSEPI KGDVLNYDEV
+                                                                 
+  
+                                                                 
+Prediction MKDKLAQFTS LQADLENGVN LEQTIRLREE IAEQHRALGQ MKEMAAKYGY
+Prediction HHHHHHHHHH HHHHHH--HH HHHHHHHHHH HHHHHHHHHH HHHHHH---S
+           |||||||||| |        | |||||||||| ||      || ||   ||   
+Experiment HHHHHHHHHH H........H HHHHHHHHHH HHHHHHHHHH HHHHHHH---
+Experiment MERMDHFMDW L........A KQYITALNII HYMHDKYSYE ASLMALHDRD
+                                                                 
+  
+                                                             **  
+Prediction DISGPATNAQ EAIQWTYFGY LAAVKSQNGA AM..SFGRTS TFLDVYIERD
+Prediction SS---SS--- HHHHHHHHHH HHHHH----- -H..HHHHHH HHHHHHHHHH
+                  ||| |||||  ||| ||||  | ||                      
+Experiment HHHHHHHHHH HHHHH..HHH HHHH----SS SSS-----SS SSSS---SSS
+Experiment VIRTMACGIA GLSVA..ADS LSAIKYAKVK PIRDEDGLAI DFEIEGEYPQ
+                                                             **  
+  
+                 ***   *                                         
+Prediction LKAGKITEQE AQEMVDHLVM KL......RM VRFL...... ..RTPEYDE.
+Prediction H---HHHHHH HHHHHHHHHH HH......HH HHHH...... ..H---SSS.
+                ||||| |||||||||| ||      || |||          ||||||  
+Experiment ------HHHH HHHHHHHHHH HHHHHHH--- --HHHHHHHH HHHHHHHHHH
+Experiment FGNNDPRVDD LAVDLVERFM KKIQKLHTYR DAIPTQSVLT ITSNVVYGKK
+                 ***   *                                         
+  
+                                       **    **  **  *          *
+Prediction ..LFSGDPIW AT..ESIGGM GLDGRTLVTK NSFRFLNTLY TMGPSPEPNM
+Prediction ..-HHHHHHH HH..HHHHHH -----HHHHH HHHHHHHHHH ---SS---SS
+             ||    ||  |  |||          |||| ||||         ||||||||
+Experiment HHH----SS- --SSS----S S--SSSS--H HHHHHHHHHH H-----SSSS
+Experiment TGNTPDGRRA GAPFGPGANP MHGRDQKGAV ASLTSVAKLP FAYAKDGISY
+                                       **    **  **  *          *
+  
+           ***   ****          *                   *** ******    
+Prediction TIL...WSEK LPLNFKKFAA K........V S.....IDTS SLQYEND..D
+Prediction SSS...S--- SS-HHHHHHH H........H H.....H--- -SSSSSS..S
+           ||      || |||||||||| |          |     |||| |||||||  |
+Experiment SSSSS-SSSS S---HHHHHH HHHHHHHHHH ----HHHHHH HHHHHHHHHH
+Experiment TFSIVPNALG KDDEVRKTNL AGLMDGYFHH EASIEGGQHL NVNVMNREML
+           ***   ****          *                   *** ******    
+  
+                                       
+Prediction LMR..PDFNN .DDYAIACCV SPMI..
+Prediction SSS..S---- .--SSS---- -SSS..
+           ||     |||  ||||| |         
+Experiment HHHHHHHH-- SSSSSS---- SSS---
+Experiment LDAMENPEKY PQLTIRVSGY AVRFNS
+                                       
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.012 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.036 sec >
+   < Tertiary structure matching:         0.010 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

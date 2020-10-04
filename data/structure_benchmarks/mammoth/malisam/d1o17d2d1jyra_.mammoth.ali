@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1o17d2d1jyra_/1o17_Dh.pdb
+     Number of residues:    91
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1o17d2d1jyra_/1jyr_Ac.pdb
+     Number of residues:    96
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   93.41  NALI=  85  NORM=  91  RMS=   13.18  NSS=  53
+ PSI(end)=   36.26  NALI=  33  NORM=  91  RMS=    3.68  CO_p=  4.29  CO_e=  4.45
+ Sstr(LG)=  493.96  NALI=  33  NORM=  91  RMS=    3.68
+E-value=     0.61966137E-01
+
+Z-score=      2.4864322        -ln(E)=      2.7811672    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+              * ***** ****   *** *******     ********* **        
+Prediction PANAKYQLMG VFSKDHLDLL SKSAYELDF. NKIILVYGEP GI.....DEV
+Prediction SSSS--SSSS S----HHHHH HHHHHH---. --SSSSS--- --.....---
+                 |||| ||||   ||| |||||||||  |||||||    ||       |
+Experiment ..SSSSSSSS ----...-HH HHHHHH---- -SSSSSSS-- ----SSSSSS
+Experiment ..GSMAWFFG KIPR...AKA EEMLSKQRHD GAFLIRESES APGDFSLSVK
+              * ***** ****   *** *******     ********* **        
+  
+                 **                                              
+Prediction SPIGNTFMKI VSKRGIE..E VKLNVKDEHV AEFIKINTAV ALFALDRV..
+Prediction -----SSSSS S----SS..S S--SS----H HHHHHHHHHH HHHH-SSS..
+           |||||||       |||     | |||||||| ||         ||        
+Experiment ----SSSSSS SS-----SS- ---SS----H HHHHHH-SSS -----SSSSS
+Experiment FGNDVQHFKV LRDGAGKYFL WVVKFNSLNE LVDYHRSTSV SRNQQIFLRD
+                 **                                              
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.003 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.005 sec >
+   < Tertiary structure matching:         0.002 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

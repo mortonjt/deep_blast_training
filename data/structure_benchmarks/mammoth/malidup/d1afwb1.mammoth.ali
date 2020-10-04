@@ -1,0 +1,107 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1afwb1/1afw_B1.pdb
+     Number of residues:   271
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1afwb1/1afw_B2.pdb
+     Number of residues:   122
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   93.44  NALI= 114  NORM= 122  RMS=    9.22  NSS=  76
+ PSI(end)=   79.51  NALI=  97  NORM= 122  RMS=    3.89  CO_p=  8.57  CO_e=  6.95
+ Sstr(LG)= 1456.35  NALI=  97  NORM= 122  RMS=    3.89
+E-value=     0.34216205E-05
+
+Z-score=      12.991879        -ln(E)=      12.585396    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                    * ******* ** **      ** ********** ****** * *
+Prediction KNSLLEKRPE DVVIVAANRS AIGKGFKGAF KDVNTDYLLY NFLNEF.IGR
+Prediction HHHHHHH--- -SSSSSSSSS SSSS---HHH HHHHHHHHHH HHHHHH.HHH
+                   || ||||||| || ||            ||||||| ||||    ||
+Experiment .......SSS SSSSSSS.SS SS......S- ---HHHHHHH HHHHHHH---
+Experiment .......LPV LGRYIDF.QT VG......VP PEIMGVGPAY AIPKVLEATG
+                    * ******* ** **      ** ********** ****** * *
+  
+                 **** *******       ******* ********** ****      
+Prediction FPEPLRADLN LIEEVACGNV LNVGAGATEH RAACLASGIP YSTP......
+Prediction H---HHHHHH HHHHHHHH-- ---HHHHHHH HHHHH---SS ---S......
+                 |||| |||||||        |||||| ||||||||             
+Experiment ......SS-- ---SSSS... ..S-----HH HHHHH---HH HHHHHHHHHH
+Experiment ......LQVQ DIDIFEI... ..NEAFAAQA LYCIHKLGID LNKVNPRGGA
+                 **** *******       ******* ********** ****      
+  
+              ******* **********     ****** **********           
+Prediction FVALNRQCSS GLTAVNDIAN KIKVGQIDIG LALGVESMTN NYKNVNPLGM
+Prediction SSSSS----H HHHHHHHHHH HH------SS SSSSSSS--H HHHHHHH-SS
+            ||||||||| ||||||          ||||| ||||          |      
+Experiment H--SSS--HH HHHHHHHHHH ....HH---- SSSSSSS--- --SSSSSSSS
+Experiment IALGHPLGCT GARQVATILR ....ELKKDQ IGVVSMCIGT GMGAAAIFIK
+              ******* **********     ****** **********           
+  
+                                                                 
+Prediction ISSEELQKNR EAKKCLIPMG ITNENVAANF KISRKDQDEF AANSYQKAYK
+Prediction SS---SSSS- -HHHHHHHHH HHHHHHHH-- HHHHHHHHHH HHHHHHHHHH
+                                                                 
+Experiment .......... .......... .......... .......... ..........
+Experiment .......... .......... .......... .......... ..........
+                                                                 
+  
+                                                                 
+Prediction AKNEGLFEDE ILPIKLPDGS ICQSDEGPRP NVTAESLSSI RPAFIKDRGT
+Prediction HHHHHHHHHH HHHHH----- HHHHHHHHHH HHH-SSSSSS SS-------H
+                                                                 
+Experiment .......... .......... .......... .......... ..........
+Experiment .......... .......... .......... .......... ..........
+                                                                 
+  
+                                        
+Prediction TTAGNASQVS DGVAGVLLAR RSVANQL
+Prediction HHHHHHHHHH -SSSSSSSS- --SSSSS
+                                        
+Experiment .......... .......... .......
+Experiment .......... .......... .......
+                                        
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.014 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.025 sec >
+   < Tertiary structure matching:         0.005 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

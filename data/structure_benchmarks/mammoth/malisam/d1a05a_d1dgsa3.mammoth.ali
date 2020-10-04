@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1a05a_d1dgsa3/1a05_Ai.pdb
+     Number of residues:    80
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1a05a_d1dgsa3/1dgs_Ac.pdb
+     Number of residues:    96
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   95.00  NALI=  76  NORM=  80  RMS=   10.40  NSS=  54
+ PSI(end)=   55.00  NALI=  44  NORM=  80  RMS=    3.88  CO_p=  6.57  CO_e=  4.86
+ Sstr(LG)=  679.80  NALI=  44  NORM=  80  RMS=    3.88
+E-value=     0.64336358E-02
+
+Z-score=      4.9361658        -ln(E)=      5.0462155    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                 *  * *      *   ********** ***   **** ***** ** *
+Prediction PPAKRPEQGL LR.....LRK GLDLYANLRP AQIFDVDILV VRELTGNMFG
+Prediction HHHHHHHHHH HH.....HHH ---SSSSSSS S-----SSSS SS----HHHH
+              ||||||| ||      |  |||||||||| ||||||||   | ||||||||
+Experiment ...HHHHHHH HHHHHHH--- --SSSSSSS- -------SSS SSS----HHH
+Experiment ...FTYEEVL AFEERLEREA EAPSLYTVEH KVDFPVEHCY EKALGAEGVE
+                 *  * *      *   ********** ***   **** ***** ** *
+  
+           ****   ***         *                        ******* 
+Prediction DILSD..EAS ........Q. ..LTGSIGML PSASLGEGRA MYEPIHG.
+Prediction HHHHH..HHH ........H. ..H-SS--SS SSSSS----S SSSS---.
+           |||||  |||              |||      ||||||             
+Experiment HHHHHHHHHH HH----SSSS SSSSS---SS SSSSS---SS ---SSSSS
+Experiment EVYRRGLAQR HALPFEADGV VLKLDDLTLW GELGYTARAP RFALAYKF
+           ****   ***         *                        ******* 
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.004 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.007 sec >
+   < Tertiary structure matching:         0.003 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

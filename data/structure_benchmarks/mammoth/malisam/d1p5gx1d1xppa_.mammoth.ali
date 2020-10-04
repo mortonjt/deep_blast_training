@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1p5gx1d1xppa_/1p5g_Xh.pdb
+     Number of residues:    84
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1p5gx1d1xppa_/1xpp_Ac.pdb
+     Number of residues:    99
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   91.67  NALI=  77  NORM=  84  RMS=    6.28  NSS=  52
+ PSI(end)=   66.67  NALI=  56  NORM=  84  RMS=    3.87  CO_p=  6.57  CO_e=  6.50
+ Sstr(LG)=  703.43  NALI=  56  NORM=  84  RMS=    3.87
+E-value=     0.10503242E-02
+
+Z-score=      6.8748388        -ln(E)=      6.8586564    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                  *****   * ********** **********
+Prediction ....LPASIF RAYDIRGVVG DTLTAETAYW IGRAIGSESL ARGEGKSGVM
+Prediction ....SSSSSS ----SSSS-- -HHHHHHHHH HHHHHHHHHH ------SSSS
+               |||||| |||||       |||||   | |||||       |||||||  
+Experiment SSSSSSSSSS ----SS.SSS -----H...H HHHHHHHHHH ----SSSSSS
+Experiment AESSLRVISK EKNSIT.VEM INYDNT...L LRTLVEEILK DDQVDEARYY
+                                  *****   * ********** **********
+  
+           **     *** ********** **** ** ** *******              
+Prediction LTGSHNPPDY NGFKIVVAGE TLANEQIQAL RERIEKN... ..........
+Prediction SSSS------ SSSSSS---- SSS--HHHHH HHHHHHH... ..........
+            |    |||| ||||||||    ||||||||| |                    
+Experiment S-..-----S SSSSSS---- HHHHHHHHHH HHHHHHHHHH HHHHHHHHHH
+Experiment IK..HPVIDN PQIYVRVKSG KPQSAIKRAV RKLSKLYEDL GTQFQKEFQR
+           **     *** ********** **** ** ** *******              
+  
+               
+Prediction ....
+Prediction ....
+               
+Experiment HHHH
+Experiment YESD
+               
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.006 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.007 sec >
+   < Tertiary structure matching:         0.004 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

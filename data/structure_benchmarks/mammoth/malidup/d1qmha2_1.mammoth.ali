@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1qmha2_1/1qmh_A1.pdb
+     Number of residues:    81
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1qmha2_1/1qmh_A2.pdb
+     Number of residues:    94
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.30  NALI=  78  NORM=  81  RMS=    6.26  NSS=  55
+ PSI(end)=   46.91  NALI=  38  NORM=  81  RMS=    3.55  CO_p=  4.27  CO_e=  4.94
+ Sstr(LG)=  562.29  NALI=  38  NORM=  81  RMS=    3.55
+E-value=     0.18427243E-01
+
+Z-score=      3.8057883        -ln(E)=      3.9939251    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+            * ******* ********** ****   *      ** ****           
+Prediction .MIALDGAQG EGGGQILRSA LSLS...MIT GQPFTITSIR AGRAKPGLLR
+Prediction .SSSSSSS-- -HHHHHHHHH HHHH...H-- --SSSSSSSS S----HHHHH
+            ||      | |||||||||| ||     ||| |||   |||| |   ||||||
+Experiment SSSSSSSS-- --HHHHHHHH HHHHHHH--- -SSSS.SSSS SS.----HHH
+Experiment GGDYRFAIGS AGSCTLVLQT VLPALWFADG PSRVE.VSGG TD.NPSAPPA
+            * ******* ********** ****   *      ** ****           
+  
+           * **** **  **                                    
+Prediction Q.HLTAVKAA TEICGAT... ..VEGAELGS QRLLFRPGTV .....
+Prediction H.HHHHHHHH HH---SS... ..SSSS---- --SSSSSSSS .....
+           | |||||||| |||   |      |  ||||| ||||            
+Experiment HHHHHHHHHH HH----SSSS SSSSSS---- -SSSSSSSSS SSSSS
+Experiment DFIRRVLEPL LAKIGIHQQT TLLRHGFYPA GGGVVATEVS PVASF
+           * **** **  **                                    
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.005 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.006 sec >
+   < Tertiary structure matching:         0.004 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

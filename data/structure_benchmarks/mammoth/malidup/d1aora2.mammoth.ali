@@ -1,0 +1,83 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1aora2/1aor_A1.pdb
+     Number of residues:   117
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malidup/d1aora2/1aor_A2.pdb
+     Number of residues:    93
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   96.77  NALI=  90  NORM=  93  RMS=    5.57  NSS=  75
+ PSI(end)=   87.10  NALI=  81  NORM=  93  RMS=    3.93  CO_p=  6.83  CO_e=  6.40
+ Sstr(LG)= 1180.51  NALI=  81  NORM=  93  RMS=    3.93
+E-value=     0.10887101E-04
+
+Z-score=      11.755638        -ln(E)=      11.427932    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                ***** ****   *** **** *** *  ********* ***       
+Prediction MYGNWGRFIR VNLSTGDIKV EEYDEELAKK WLGSRGLAIY LLLKEMDPTV
+Prediction SSSSSSSSSS SS----SSSS SSSS-HHHHH HHH--HHHHH HHHHHHHH-S
+                ||||| |  |   ||| ||||||||||  ||||||||| ||        
+Experiment .....SSSSS SS--...--S SSSSSSSSSS .S---HHHHH HHH.......
+Experiment .....KPVYI YIKD...EHI EIRDASHIWG .KKVSETEAT IRK.......
+                ***** ****   *** **** *** *  ********* ***       
+  
+                ***** *********    *******          ** **********
+Prediction DPLSPENKLI IAAGPLTGTS APTGGRYNVV TKSPLTGFIT MANSGGYFGA
+Prediction S-----SSSS SSSSSSSS-- ---SSSSSSS SSS------S SSSS---HHH
+           |||| ||||| |||||||||   |||||             || | ||||||||
+Experiment ----.---SS SSSS-SSS-. .----SSSS. ......---- SSSS--HHHH
+Experiment EVGS.EKVKI ASIGPAGEN. .LVKFAAIM. ......NDGH RAAGRGGVGA
+                ***** *********    *******          ** **********
+  
+           ********** ******  
+Prediction ELKFAGYDAI VVEGKA..
+Prediction HHH---SSSS SSSSSS..
+           ||||||||||         
+Experiment HHH---SSSS SSSSSSSS
+Experiment VMGSKNLKAI AVEGSKTV
+           ********** ******  
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.007 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.009 sec >
+   < Tertiary structure matching:         0.005 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT

@@ -1,0 +1,75 @@
+ Predicted path:   
+ Experimental path:
+ _______________________________________________________________________________
+
+
+                      T U R B O     M  A  M  M  O  T  H
+
+
+               MAtching Molecular Models Obtained from THeory
+
+ _______________________________________________________________________________
+
+  
+
+ -------------------
+  Input information 
+ -------------------
+  
+
+==> PREDICTION: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1qd1b1d1n62c2/1qd1_Bh.pdb
+     Number of residues:    98
+
+
+==> EXPERIMENT: 
+
+     Filename: /home/cems/Downloads/mozilla_cems0/malialign/d1qd1b1d1n62c2/1n62_Cc.pdb
+     Number of residues:    61
+
+  
+ -----------------------------
+  Structural Alignment Scores 
+ -----------------------------
+  
+
+ PSI(ini)=   98.36  NALI=  60  NORM=  61  RMS=   11.07  NSS=  42
+ PSI(end)=   44.26  NALI=  27  NORM=  61  RMS=    3.71  CO_p=  5.00  CO_e=  4.91
+ Sstr(LG)=  627.98  NALI=  27  NORM=  61  RMS=    3.71
+E-value=     0.87791108E-01
+
+Z-score=      2.0996362        -ln(E)=      2.4327951    
+  
+ ----------------------------
+  Final Structural Alignment 
+ ----------------------------
+  
+                                              *****  * *         
+Prediction PRMGALDVCP FIPVRGVTMD ECVRCAQAFG QRLAEELGVP VYLYGEAART
+Prediction SSS---SSSS SSS----HHH HHHHHHHHHH HHHHH----S SSS-------
+                ||||| |    ||         ||||| ||||  || | |    ||   
+Experiment ..SSSSSSSS S...SS-... .....---HH HHHHHHH--- S....SS...
+Experiment ..MIPGSFDY H...RPK... .....SIADA VALLTKLGED A....RP...
+                                              *****  * *         
+  
+                         ******* *****      ********          
+Prediction AGRQSLPALR AGEYEALPEK LKQAEWAPDF GPSAFVPSWG ATVAGAR
+Prediction --HHHHHHHH HHH--HHHHH HHH--SSS-- -SSSS----S SSSSSSS
+             |||         ||||||| |||||    | |||               
+Experiment ..S--..... ...-HHHHHH HH---...SS S-SSSSSSSS SSS....
+Experiment ..LAG..... ...GHSLIPI MKTRL...AT PEHLVDLRDI GDL....
+                         ******* *****      ********          
+  
+  
+ ---------
+  Timings 
+ ---------
+  
+   < Initialization:                      0.007 sec >
+   < Secondary structure assignment       0.000 sec >
+   < Secondary structure alignment:       0.006 sec >
+   < Tertiary structure matching:         0.003 sec >
+   < Text Output                          0.000 sec >
+  
+<MAMMOTH> NORMAL_EXIT
